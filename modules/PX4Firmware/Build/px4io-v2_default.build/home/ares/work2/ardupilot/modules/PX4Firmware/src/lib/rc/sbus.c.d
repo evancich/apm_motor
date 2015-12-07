@@ -1,0 +1,22 @@
+../../lib/rc/sbus.c.o: \
+ /home/ares/work2/ardupilot/modules/PX4Firmware/src/lib/rc/sbus.c \
+ /home/ares/work2/ardupilot/modules/PX4Firmware/src/include/visibility.h \
+ /home/ares/work2/ardupilot/modules/PX4Firmware/src/platforms/px4_config.h \
+ /home/ares/work2/ardupilot/modules/PX4Firmware/Build/px4io-v2_default.build/nuttx-export/include/nuttx/config.h \
+ /home/ares/work2/ardupilot/modules/PX4Firmware/Build/px4io-v2_default.build/nuttx-export/include/fcntl.h \
+ /home/ares/work2/ardupilot/modules/PX4Firmware/Build/px4io-v2_default.build/nuttx-export/include/sys/types.h \
+ /home/ares/work2/ardupilot/modules/PX4Firmware/Build/px4io-v2_default.build/nuttx-export/include/nuttx/compiler.h \
+ /home/ares/work2/ardupilot/modules/PX4Firmware/Build/px4io-v2_default.build/nuttx-export/include/stdint.h \
+ /home/ares/work2/ardupilot/modules/PX4Firmware/Build/px4io-v2_default.build/nuttx-export/include/arch/types.h \
+ /home/ares/work2/ardupilot/modules/PX4Firmware/Build/px4io-v2_default.build/nuttx-export/include/limits.h \
+ /home/ares/work2/ardupilot/modules/PX4Firmware/Build/px4io-v2_default.build/nuttx-export/include/arch/limits.h \
+ /home/ares/work2/ardupilot/modules/PX4Firmware/Build/px4io-v2_default.build/nuttx-export/include/unistd.h \
+ /home/ares/work2/ardupilot/modules/PX4Firmware/Build/px4io-v2_default.build/nuttx-export/include/termios.h \
+ /home/ares/work2/ardupilot/modules/PX4Firmware/src/lib/rc/sbus.h \
+ /home/ares/work2/ardupilot/modules/PX4Firmware/Build/px4io-v2_default.build/nuttx-export/include/stdbool.h \
+ /home/ares/work2/ardupilot/modules/PX4Firmware/src/drivers/drv_hrt.h \
+ /home/ares/work2/ardupilot/modules/PX4Firmware/Build/px4io-v2_default.build/nuttx-export/include/inttypes.h \
+ /home/ares/work2/ardupilot/modules/PX4Firmware/Build/px4io-v2_default.build/nuttx-export/include/stddef.h \
+ /home/ares/work2/ardupilot/modules/PX4Firmware/src/platforms/px4_time.h \
+ /home/ares/work2/ardupilot/modules/PX4Firmware/Build/px4io-v2_default.build/nuttx-export/include/time.h \
+ /home/ares/work2/ardupilot/modules/PX4Firmware/Build/px4io-v2_default.build/nuttx-export/include/queue.h
